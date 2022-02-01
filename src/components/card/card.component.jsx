@@ -8,7 +8,5 @@ export const Card = props => (
     <h2>{props.monster.name}</h2>
     <p>{props.monster.email}</p>
 </div>
-
 );
 
-// kommet til 38 Excercise: Breaking into Components
